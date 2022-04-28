@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This is where I turn ideas into code.
+This is where I experiment with code & ideas.
+
 
 <!--
 **Jsran98/Jsran98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
